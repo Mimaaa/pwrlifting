@@ -1,0 +1,26 @@
+{
+  "name": "pwrlifting",
+  "version": "1.0.0",
+  "description": "Powerlifting Ranking for the Netherlands",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mimaaa/pwrlifting.git"
+  },
+  "keywords": [
+    "powerlifting",
+    "nodejs"
+  ],
+  "author": "Mirza van Meerwijk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mimaaa/pwrlifting/issues"
+  },
+  "homepage": "https://github.com/Mimaaa/pwrlifting#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
